@@ -159,14 +159,7 @@ raj@developer:~$ cat about_me.txt
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajpagare01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="Raj's GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajpagare01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" />
-</div>
-<br>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajpagare01/rajpagare01/output/github-contribution-grid-snake-dark.svg">

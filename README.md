@@ -161,7 +161,6 @@ raj@developer:~$ cat about_me.txt
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajpagare01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="Raj's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpagare01&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" alt="Raj's GitHub Streak" />
 </div>
 <br>
 <div align="center">

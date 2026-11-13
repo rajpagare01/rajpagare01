@@ -237,8 +237,11 @@ raj@developer:~$ cat profile.json
   </picture>
   <br/><br/>
 
-  <!-- CONTRIBUTION GRAPH -->
-  <img src="https://activity-graph.vercel.app/graph?username=rajpagare01&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <!-- CONTRIBUTION GRAPH (ANIMATED LOOP) -->
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/rajpagare01/rajpagare01/output/activity-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rajpagare01/rajpagare01/main/assets/activity-graph.svg" width="95%" alt="Activity Graph" />
+  </picture>
 </div>
 
 <!-- FOOTER BANNER -->

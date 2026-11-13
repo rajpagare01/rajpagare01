@@ -32,8 +32,8 @@ jobs:
           url = 'https://activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true'
           req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
           svg = urllib.request.urlopen(req).read().decode('utf-8')
-          svg = svg.replace('animation: dash 5s ease-in-out forwards;', 'animation: dash 6s ease-in-out infinite;')
-          svg = svg.replace('animation: blink 1s ease-in-out forwards;', 'animation: blink 6s ease-in-out infinite;')
+          svg = svg.replace('animation: dash 5s ease-in-out forwards;', 'animation: dash 10s ease-in-out infinite;')
+          svg = svg.replace('animation: blink 1s ease-in-out forwards;', 'animation: blink 10s ease-in-out infinite;')
           old_kf = '''        @keyframes blink {
                       from {
                           opacity: 0;
@@ -52,15 +52,15 @@ jobs:
                       }
                   }'''
           new_kf = '''        @keyframes blink {
-                      0%, 40% { opacity: 0; transform: scale(0.3); }
-                      55%, 85% { opacity: 1; transform: scale(1); }
-                      95%, 100% { opacity: 0; transform: scale(0.3); }
+                      0%, 50% { opacity: 0; transform: scale(0.3); }
+                      65%, 88% { opacity: 1; transform: scale(1); }
+                      96%, 100% { opacity: 0; transform: scale(0.3); }
                   }
                   @keyframes dash {
                       0% { stroke-dashoffset: 5000; opacity: 0.2; }
-                      10% { opacity: 1; }
-                      55% { stroke-dashoffset: 0; opacity: 1; }
-                      85% { stroke-dashoffset: 0; opacity: 1; }
+                      8% { opacity: 1; }
+                      65% { stroke-dashoffset: 0; opacity: 1; }
+                      88% { stroke-dashoffset: 0; opacity: 1; }
                       100% { stroke-dashoffset: 5000; opacity: 0.2; }
                   }'''
           if old_kf in svg:

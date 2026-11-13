@@ -109,7 +109,7 @@
       stroke-width: 10px;
       stroke-linecap: round;
       stroke: #ffffff;
-      animation: blink 6s ease-in-out infinite;
+      animation: blink 10s ease-in-out infinite;
     }
 
     .ct-line {
@@ -117,7 +117,7 @@
       stroke-dasharray: 5000;
       stroke-dashoffset: 5000;
       stroke: #36bcf7;
-      animation: dash 6s ease-in-out infinite;
+      animation: dash 10s ease-in-out infinite;
     }
 
     .ct-area {
@@ -136,15 +136,15 @@
     
                 
         @keyframes blink {
-            0%, 40% {
+            0%, 50% {
                 opacity: 0;
                 transform: scale(0.3);
             }
-            55%, 85% {
+            65%, 88% {
                 opacity: 1;
                 transform: scale(1);
             }
-            95%, 100% {
+            96%, 100% {
                 opacity: 0;
                 transform: scale(0.3);
             }
@@ -155,14 +155,14 @@
                 stroke-dashoffset: 5000;
                 opacity: 0.2;
             }
-            10% {
+            8% {
                 opacity: 1;
             }
-            55% {
+            65% {
                 stroke-dashoffset: 0;
                 opacity: 1;
             }
-            85% {
+            88% {
                 stroke-dashoffset: 0;
                 opacity: 1;
             }

@@ -37,7 +37,7 @@ raj@developer:~$ cat profile.json
       </pre>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpagare01&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajpagare01&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -221,11 +221,11 @@ raj@developer:~$ cat profile.json
 
 <div align="center">
   <!-- GITHUB TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rajpagare01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" width="95%" />
+  <img src="https://profile-trophy.vercel.app/?username=rajpagare01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" width="95%" />
   <br/><br/>
 
   <!-- STATS & STREAK CARDS -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajpagare01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=rajpagare01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
   <img height="170em" src="https://streak-stats.demolab.com?user=rajpagare01&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
   <br/><br/>
 
@@ -238,7 +238,7 @@ raj@developer:~$ cat profile.json
   <br/><br/>
 
   <!-- CONTRIBUTION GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpagare01&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=rajpagare01&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 <!-- FOOTER BANNER -->

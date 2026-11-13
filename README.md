@@ -207,8 +207,8 @@ raj@developer:~$ cat profile.json
       <td valign="center" align="center" width="50%">
         <h3>⚡ LeetCode Problem Solving</h3>
         <!-- LIVE LEETCODE CARD (Change username if different from rajpagare01) -->
-        <a href="https://leetcode.com/u/rajpagare01/">
-          <img src="https://leetcard.jacoblin.cool/rajpagare01?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" width="100%" />
+        <a href="https://leetcode.com/u/rajpagare1/">
+          <img src="https://leetcard.jacoblin.cool/rajpagare1?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats" width="100%" />
         </a>
       </td>
     </tr>
